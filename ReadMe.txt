@@ -2,7 +2,13 @@ CMPM 163 Final Project
 Ambient Occlusion and other effects
 Team Psyko Jr.
 
+Github project URL: https://github.com/JacobDanielsF/CMPM163FinalProject
+Highlight video URL: https://youtu.be/yIZ46GU2c0o
+
+
 How to navigate our project:
+
+Download and unzip Default_Build_Windows.zip or Default_Build_MacOS.zip depending on the type of computer you are using.
 
 When running the executable unity file, you will come across a desert scene. Use WASD or arrow keys to move around the scene. You can also rotate the camera by clicking the screen with the left mouse button. Certain particle effects in the scene will react to the background music, so it is better to view the scene with audio enabled.
 
@@ -32,4 +38,4 @@ Taylor Infuso
 - created the sand and wind particle effects, which react to music
 - wrote most of the slides for our presentation
 - helped with the custom shadow effect before it was scrapped
-
+- created a dust effect using a shader graph, which was not included in our final build due to our other shaders being incompatible with the lightweight render pipeline
