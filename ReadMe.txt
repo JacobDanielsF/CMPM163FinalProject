@@ -12,6 +12,9 @@ Download and unzip Default_Build_Windows.zip or Default_Build_MacOS.zip dependin
 
 When running the executable unity file, you will come across a desert scene. Use WASD or arrow keys to move around the scene. You can also rotate the camera by clicking the screen with the left mouse button. Certain particle effects in the scene will react to the background music, so it is better to view the scene with audio enabled.
 
+Our full Unity project is contained within Final_Project_Source_Files.zip.
+Addtionally, our presentation slides are included in CMPM163 Presentation.pptx.
+
 
 Each member's role in the project:
 
@@ -28,14 +31,17 @@ Junhao Su
 Oskar Alfaro
 - helped create the fire particle effect
 - created most of the models in the scene
+- set up most of the scene
 
 Jason Chen
 - helped create the ambient occlusion effect
 - created the dancing fire effect that reacts to music
 - created the custom shadow effect before it was scrapped
+- created camera movement and keyboard controls for ambient occlusion
 
 Taylor Infuso
 - created the sand and wind particle effects, which react to music
+- helped set up the scene and sky
 - wrote most of the slides for our presentation
 - helped with the custom shadow effect before it was scrapped
-- created a dust effect using a shader graph, which was not included in our final build due to our other shaders being incompatible with the lightweight render pipeline
+- made a shader graph effect for dust particles. It is called TaylorsShaderGraphEffect
