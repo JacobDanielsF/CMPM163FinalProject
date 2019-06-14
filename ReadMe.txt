@@ -12,8 +12,10 @@ Download and unzip Default_Build_Windows.zip or Default_Build_MacOS.zip dependin
 
 When running the executable unity file, you will come across a desert scene. Use WASD or arrow keys to move around the scene. You can also rotate the camera by clicking the screen with the left mouse button. Certain particle effects in the scene will react to the background music, so it is better to view the scene with audio enabled.
 
+An alternate version of our build containing Taylor's dust particles using shader graphs is included in TaylorsShaderGraphDust.zip.
 Our full Unity project is contained within Final_Project_Source_Files.zip.
 Addtionally, our presentation slides are included in CMPM163 Presentation.pptx.
+Our SIGGRAPH-style documentation paper is file SIGGRAPH Project Documentation.pdf.
 
 
 Each member's role in the project:
