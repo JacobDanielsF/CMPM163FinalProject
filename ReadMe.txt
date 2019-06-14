@@ -31,6 +31,7 @@ Junhao Su
 Oskar Alfaro
 - helped create the fire particle effect
 - created most of the models in the scene
+- set up most of the scene
 
 Jason Chen
 - helped create the ambient occlusion effect
@@ -39,6 +40,7 @@ Jason Chen
 
 Taylor Infuso
 - created the sand and wind particle effects, which react to music
+- helped set up the scene and sky
 - wrote most of the slides for our presentation
 - helped with the custom shadow effect before it was scrapped
-- created a dust effect using a shader graph, which was not included in our final build due to our other shaders being incompatible with the lightweight render pipeline
+- made a shader graph effect for dust particles. It is called TaylorsShaderGraphEffect
