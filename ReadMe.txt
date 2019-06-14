@@ -37,6 +37,7 @@ Jason Chen
 - helped create the ambient occlusion effect
 - created the dancing fire effect that reacts to music
 - created the custom shadow effect before it was scrapped
+- created camera movement and keyboard controls for ambient occlusion
 
 Taylor Infuso
 - created the sand and wind particle effects, which react to music
